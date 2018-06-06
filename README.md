@@ -14,6 +14,8 @@ https://www.packtpub.com/virtualization-and-cloud/implementing-microsoft-azure-i
 ## Guide blog site 
 Blog site : https://www.cloud-melon.com/
 
+Share your insights with @MelonyQ at https://twitter.com/MelonyQ
+
 # Reference repository : 
 
 ARM Template : 
