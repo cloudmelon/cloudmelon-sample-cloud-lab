@@ -1,31 +1,53 @@
-# cloudmelon sample cloud lab
-Sample cloud lab by cloud melon ( Microsoft Azure, AWS, and GCP coming soon ) 
+# Hybrid scenarios with Kubernetes
 
-
-## Guide book
-
-Implementing Microsoft Azure Infrastructure Solutions : Exam Guide 70-533
-Author : Melony QIN
-
-
-More details on :
-https://www.packtpub.com/virtualization-and-cloud/implementing-microsoft-azure-infrastructure-solutions-exam-guide-70-533
+This repository stores step-by-step hyrid scenarios with Kubernetes
 
 ## Guide blog site 
 Blog site : https://www.cloud-melon.com/
 
 Share your insights with @MelonyQ at https://twitter.com/MelonyQ
 
-# Reference repository : 
+## Cloudmelon playbook Github repositories : 
 
-ARM Template : 
-   https://github.com/cloudmelon/azure-multiple-vmss-linux
+Kubernetes Playbook :
 
-Azure PowerShell :
-   https://github.com/cloudmelon/azure-resources-audit-powershell
+   https://github.com/cloudmelon/melonkube
+   
+Kubernetes Ecosystem Playbook :
+   
+   https://github.com/cloudmelon/k8secosys
 
-Lab repository : https://github.com/cloudmelon/cloudmelonsamplecloudlab
+Spark Playbook : 
 
-Application repository : https://github.com/cloudmelon/cloudmelonsampleapp
+   https://github.com/cloudmelon/spark-playbook
+
+Python Playbook:
+
+   https://github.com/cloudmelon/python-playbook
+
+Golang Playbook:
+
+   https://github.com/cloudmelon/golang-playbook 
+
+Git Playbook : 
+   
+   https://github.com/cloudmelon/git-playbook
+
+Linux Playbook :
+
+   https://github.com/cloudmelon/linux-playbook
+
+Hybrid Scenarios : 
+     
+   https://github.com/cloudmelon/hybrid-scenarios
 
 
+
+## Guide book
+
+- Implementing Microsoft Azure Infrastructure Solutions : Exam Guide 70-533
+  https://www.packtpub.com/virtualization-and-cloud/implementing-microsoft-azure-infrastructure-solutions-exam-guide-70-533
+
+
+- The Kubernetes Workshop 
+  https://www.packtpub.com/gb/cloud-networking/the-kubernetes-workshop
